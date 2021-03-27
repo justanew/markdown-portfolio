@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+past programing in *apple basic, basic, applescript, actionscript and hypercard all __dead languages__*. 
